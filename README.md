@@ -34,6 +34,4 @@ console.log(codes)
 
 ## Despre
 
-Cod-reducere-elefant a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
-
-https://cuponescu.ro
+Cod-reducere-elefant a fost creat de echipa de la [Cuponescu](https://cuponescu.ro/) pentru a ajuta cu testarea.
